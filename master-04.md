@@ -1,1 +1,1 @@
-This is fourth file in master branch.
+This is fourth file in MASTER branch.
